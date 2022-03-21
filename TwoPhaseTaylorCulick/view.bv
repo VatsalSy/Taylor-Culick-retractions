@@ -1,0 +1,4 @@
+box();
+draw_vof("f",lc={0,0,1},lw=4);
+cells(n={0,0,1});
+squares("f",min=-1,max=1)

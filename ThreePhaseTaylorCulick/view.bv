@@ -1,0 +1,5 @@
+box();
+draw_vof("f2",lc={1,0,0},lw=4);
+draw_vof("f1",lc={0,0,1},lw=4);
+cells(n={0,0,1});
+squares("u.y",min=0,max=0.5);
